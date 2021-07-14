@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution](https://www.frontendmentor.io/solutions/made-with-plain-html-and-css-l_hOiOi9y/report)
+- Live Site URL: [3-column-preview-card-component-main](https://3-column-preview-card-component-main-alpha.vercel.app/)
 
 ## My process
 
