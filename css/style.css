@@ -21,11 +21,8 @@ html {
 body {
   font-size: 1.5rem;
   background-color: var(--very-light-gray);
-  font-family: var(--bs-font-sans-serif);
-  /* font-size: 1rem; */
+  font-family: 'Lexend Deca', sans-serif;
   font-weight: 400;
-  /* line-height: 1.5; */
-  /* color: #212529; */
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
